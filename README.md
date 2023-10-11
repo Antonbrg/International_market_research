@@ -21,12 +21,12 @@ My goal is to find the perfect countries to export the company's products. The i
 ## About files
 
 - Two files were given :
-  * **[DisponibiliteAlimentaire_2017.csv](
-  * **[Population_2000_2018.csv](
+  * **[DisponibiliteAlimentaire_2017.csv](https://github.com/Antonbrg/International_market_research/blob/main/data/DiponibiliteAlimentaire_2017.csv)**
+  * **[Population_2000_2018.csv](https://github.com/Antonbrg/International_market_research/blob/main/data/Population_2000_2018.csv)**
  
 - Downloaded data from **[FAOSTAT](https://www.fao.org/faostat/fr/#data)** to add political stability to the analysis :
-  * **[PIB_stabilité.csv](
+  * **[PIB_stabilité.csv](https://github.com/Antonbrg/International_market_research/blob/main/data/PIB_stabilit%C3%A9.csv)**
  
 - Two datasets I created :
-  * **[alim_pop_2017.csv](
-  * **[alim_2017_volailles.csv](
+  * **[alim_pop_2017.csv](https://github.com/Antonbrg/International_market_research/blob/main/data/alim_pop_2017.csv)**
+  * **[alim_2017_volailles.csv](https://github.com/Antonbrg/International_market_research/blob/main/data/alim_2017_volailles.csv)**
